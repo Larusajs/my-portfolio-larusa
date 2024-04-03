@@ -36,7 +36,7 @@ export default function Home() {
       <Contact />
       {/* Contact Area end */}
       {/* Client Log start */}
-      <Clients />
+      {/* <Clients /> */}
       {/* Client Log end */}
     </NoxfolioLayout>
   );
