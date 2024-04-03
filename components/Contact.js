@@ -119,7 +119,7 @@ const Contact = () => {
                         id="message"
                         className="form-control"
                         rows={4}
-                        placeholder="write message"
+                        placeholder="Your message here..."
                         required=""
                         data-error="Please enter your Message"
                         defaultValue={""}
