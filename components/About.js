@@ -37,14 +37,14 @@ const About = () => {
             </div>
             <div className="col-lg-5">
               <div className="about-image-part wow fadeInUp delay-0-3s">
-                <img src="assets/images/about/about.jpg" alt="About Me" />
+                <img src="assets/images/about/aigen.jpg" alt="About Me" />
                 <div className="about-btn btn-one wow fadeInRight delay-0-4s">
                   <img src="assets/images/about/btn-image1.png" alt="Image" />
                   <h6>Software Developer</h6>
                   <i className="fas fa-arrow-right" />
                 </div>
                 <div className="about-btn btn-two wow fadeInRight delay-0-5s">
-                  <img src="assets/images/about/btn-image2.png" alt="Image" />
+                  <img src="assets/images/about/image2.png" alt="Image" />
                   <h6>Enes Kutay Yarkan</h6>
                   <i className="fas fa-arrow-right" />
                 </div>
