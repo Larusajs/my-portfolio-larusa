@@ -87,17 +87,7 @@ const Header1 = ({ onePageMenu }) => {
               {/* Main Menu End*/}
             </div>
             {/* Menu Button */}
-            <div className="menu-btns d-none d-lg-block">
-              {/* menu sidbar */}
-              <div className="menu-sidebar">
-                <button onClick={() => toggleSidebar()}>
-                  <img
-                    src="assets/images/shape/sidebar-tottler.svg"
-                    alt="Toggler"
-                  />
-                </button>
-              </div>
-            </div>
+
           </div>
         </div>
       </div>
