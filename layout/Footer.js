@@ -32,7 +32,7 @@ const Footer1 = () => {
                 <div className="footer-logo">
                   <Link legacyBehavior href="/">
                     <a>
-                      <img src="assets/images/logos/logo.png" alt="Logo" />
+                      <img src="assets/images/logos/logos.png" alt="Logo" />
                     </a>
                   </Link>
                 </div>
